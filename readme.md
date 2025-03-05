@@ -14,7 +14,7 @@ Este projeto consiste em um questionário interativo de múltipla escolha desenv
 
 1.  Certifique-se de ter o Python instalado em seu sistema.
 2.  Clone este repositório: `https://github.com/dolthub/dolt`
-3.  Execute o script: `python nome_do_seu_script.py`
+3.  Execute o script: `python questionario_interativo.py`
 
 ## Requisitos
 
